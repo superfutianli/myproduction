@@ -1,0 +1,5 @@
+node_modules/*
+.build/*
+calendar_v1/*
+dist/*
+example/*
